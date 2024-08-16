@@ -1,162 +1,162 @@
 [
   {
     "type": "folder",
-    "addDate": 1720876676628,
-    "title": "收藏夹栏",
+    "addDate": 1723777571715,
+    "title": "书签栏",
     "children": [
       {
-        "type": "link",
-        "addDate": 1691712483061,
-        "title": "哔哩哔哩",
-        "icon": "https://logo.clearbit.com/www.bilibili.com",
-        "url": "https://www.bilibili.com/"
+        "type": "folder",
+        "addDate": 1723778161659,
+        "title": "AI纪元",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1723778796795,
+            "title": "国内AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723779008247,
+                "title": "DeepSeek",
+                "icon": "https://logo.clearbit.com/www.deepseek.com",
+                "url": "https://www.deepseek.com/zh"
+              },
+              {
+                "type": "link",
+                "addDate": 1723779031536,
+                "title": "文心一言",
+                "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+                "url": "https://yiyan.baidu.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723779434868,
+                "title": "智谱清言",
+                "icon": "https://logo.clearbit.com/chatglm.cn",
+                "url": "https://chatglm.cn/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723780229269,
+                "title": "讯飞星火",
+                "icon": "https://logo.clearbit.com/xinghuo.xfyun.cn",
+                "url": "https://xinghuo.xfyun.cn/desk?b=1"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723778806679,
+            "title": "国外AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723779044705,
+                "title": "ChatGPT",
+                "icon": "https://logo.clearbit.com/chatgpt.com",
+                "url": "https://chatgpt.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723780116336,
+                "title": "‎Gemini",
+                "icon": "https://logo.clearbit.com/gemini.google.com",
+                "url": "https://gemini.google.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723780308317,
+                "title": "Claude",
+                "icon": "https://logo.clearbit.com/claude.ai",
+                "url": "https://claude.ai/login?returnTo=%2F%3F"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723779193678,
+            "title": "搜索AI",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723779302461,
+                "title": "秘塔AI搜索",
+                "icon": "https://logo.clearbit.com/metaso.cn",
+                "url": "https://metaso.cn/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723778813332,
+            "title": "本地部署",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723778643154,
+                "title": "Ollama",
+                "icon": "https://logo.clearbit.com/ollama.com",
+                "url": "https://ollama.com/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1723779480854,
+            "title": "天工AI",
+            "icon": "https://logo.clearbit.com/www.tiangong.cn",
+            "url": "https://www.tiangong.cn/"
+          }
+        ]
       },
       {
-        "type": "link",
-        "addDate": 1662125827625,
-        "title": "爱奇艺",
-        "icon": "https://logo.clearbit.com/www.iqiyi.com",
-        "url": "https://www.iqiyi.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1662122152936,
-        "title": "奶牛快传",
-        "icon": "https://logo.clearbit.com/cowtransfer.com",
-        "url": "https://cowtransfer.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1662125939547,
-        "title": "阿里云盘",
-        "icon": "https://logo.clearbit.com/www.aliyundrive.com",
-        "url": "https://www.aliyundrive.com/drive"
-      },
-      {
-        "type": "link",
-        "addDate": 1662126033083,
-        "title": "Outlook",
-        "icon": "https://logo.clearbit.com/outlook.live.com",
-        "url": "https://outlook.live.com/mail/0/"
-      },
-      {
-        "type": "link",
-        "addDate": 1663418705524,
-        "title": "有道词典",
-        "icon": "https://logo.clearbit.com/dict.youdao.com",
-        "url": "https://dict.youdao.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1663418792534,
-        "title": "yeah邮箱",
-        "icon": "https://logo.clearbit.com/mail.yeah.net",
-        "url": "https://mail.yeah.net/js6/main.jsp?sid=BAKPwaMtrckZXCjNTHttFHoNatDvyxur&df=mail163_letter#module=mbox.ListModule%7C%7B%22fid%22%3A1%2C%22order%22%3A%22date%22%2C%22desc%22%3Atrue%7D"
-      },
-      {
-        "type": "link",
-        "addDate": 1663125869671,
-        "title": "贝贝BiliBili",
-        "icon": "https://logo.clearbit.com/xbeibeix.com",
-        "url": "https://xbeibeix.com/api/bilibili/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664084572585,
-        "title": "Squoosh",
-        "icon": "https://logo.clearbit.com/squoosh.app",
-        "url": "https://squoosh.app/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664250017768,
-        "title": "黑罐头",
-        "icon": "https://logo.clearbit.com/www.heycan.com",
-        "url": "https://www.heycan.com/material#all"
-      },
-      {
-        "type": "link",
-        "addDate": 1664250255907,
-        "title": "佐糖",
-        "icon": "https://logo.clearbit.com/picwish.cn",
-        "url": "https://picwish.cn/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664811279204,
-        "title": "Pexels",
-        "icon": "https://logo.clearbit.com/www.pexels.com",
-        "url": "https://www.pexels.com/zh-cn/discover/"
-      },
-      {
-        "type": "link",
-        "addDate": 1669906563129,
-        "title": "改图鸭",
-        "icon": "https://logo.clearbit.com/www.gaituya.com",
-        "url": "https://www.gaituya.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664630716256,
-        "title": "音独",
-        "icon": "https://logo.clearbit.com/ondoku3.com",
-        "url": "https://ondoku3.com/zh-hans/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664098976425,
-        "title": "Greasy Fork",
-        "icon": "https://logo.clearbit.com/greasyfork.org",
-        "url": "https://greasyfork.org/zh-CN/scripts?filter_locale=0"
-      },
-      {
-        "type": "link",
-        "addDate": 1680703863198,
-        "title": "秘塔写作猫",
-        "icon": "https://logo.clearbit.com/xiezuocat.com",
-        "url": "https://xiezuocat.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1711623979512,
-        "title": "在问AI",
-        "icon": "https://logo.clearbit.com/www.zaiwen.top",
-        "url": "https://www.zaiwen.top/chat/working-edition"
-      },
-      {
-        "type": "link",
-        "addDate": 1719072484808,
-        "title": "Poe",
-        "icon": "https://logo.clearbit.com/poe.com",
-        "url": "https://poe.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1712841892885,
-        "title": "老狗博客",
-        "icon": "https://logo.clearbit.com/blog.laogou717.com",
-        "url": "https://blog.laogou717.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1664368180352,
-        "title": "YouTube",
-        "icon": "https://logo.clearbit.com/youtube.com",
-        "url": "https://youtube.com/"
-      },
-      {
-        "type": "link",
-        "addDate": 1718367908759,
-        "title": "OpenCompass司南",
-        "icon": "https://logo.clearbit.com/opencompass.org.cn",
-        "url": "https://opencompass.org.cn/home"
-      },
-      {
-        "type": "link",
-        "addDate": 1720922774909,
-        "title": "小鹅通学员版登录-小鹅通学员版-小鹅通",
-        "icon": "https://logo.clearbit.com/study.xiaoe-tech.com",
-        "url": "https://study.xiaoe-tech.com/t_l/learnLogin#/wx"
+        "type": "folder",
+        "addDate": 1723780620355,
+        "title": "实用工具",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1723780635511,
+            "title": "图片",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723780755943,
+                "title": "SM.MS图床",
+                "icon": "https://logo.clearbit.com/sm.ms",
+                "url": "https://sm.ms/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723780991318,
+                "title": "兔兔图床",
+                "icon": "https://logo.clearbit.com/tutu.to",
+                "url": "https://tutu.to/"
+              },
+              {
+                "type": "link",
+                "addDate": 1723780900666,
+                "title": "Squoosh图片压缩",
+                "icon": "https://logo.clearbit.com/squoosh.app",
+                "url": "https://squoosh.app/"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1723780652386,
+            "title": "下载器",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1723781069842,
+                "title": "贝贝BiliBili - B站视频下载",
+                "icon": "https://logo.clearbit.com/xbeibeix.com",
+                "url": "https://xbeibeix.com/api/bilibili/"
+              }
+            ]
+          }
+        ]
       }
     ]
   }
